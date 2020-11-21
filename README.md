@@ -7,9 +7,8 @@ Evolutionary pathfinding in Unity using Genetic Algorithm
 ![](gifs/genalgpic.png)
 
 
-# Getting Started
-
-If you don't want to use Unity you can download the build version from here:
+# Download
+Unity game build:
 https://github.com/hobogalaxy/EvOLuTIoN/releases/download/v1.0/GenAlgBuild.zip
 
 <br>
@@ -62,17 +61,3 @@ Each player has only one parent, no crossover is used.
 
 
 <br>
-
-
-# Usage
-
-You can change levels by pressing `Shift + 1/2/3`
-
-
-#### The Game Menu allows you to play with a couple of parameters:
-- Number of players
-- Game speed - up to x15 so you can train them almost instantly
-- Jumping ability
-- Rotation
-- Movement speed
-- Maximum Speed
