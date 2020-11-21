@@ -1,5 +1,5 @@
 # EvOLuTIoN
-Evolutionary pathfinding in Unity using Genetic Algorithm
+Evolutionary pathfinding in Unity using genetic algorithm.
 
 
 ![](gifs/genalg1.gif)
@@ -9,9 +9,8 @@ Evolutionary pathfinding in Unity using Genetic Algorithm
 
 # Download
 Unity game build:
-https://github.com/hobogalaxy/EvOLuTIoN/releases/download/v1.0/GenAlgBuild.zip
-
 <br>
+https://github.com/hobogalaxy/EvOLuTIoN/releases/download/v1.0/GenAlgBuild.zip
 
 
 # How Does It Work
@@ -52,6 +51,7 @@ You can find the algorithm scripts in [`Assets>>Scripts>>AlgorithmScripts`](http
 ```
 
 Each player has only one parent, no crossover is used.
+<br>
 
 ## Other mechanics:
 - The green cube is the best player from previous generation, which is always reborn without any mutations
