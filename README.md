@@ -1,5 +1,5 @@
 # EvOLuTIoN
-Evolutionary pathfinding in Unity using genetic algorithm.
+A simple simulation in Unity, which uses genetic algorithm to optimize forces applied to cubes.
 
 
 ![](gifs/genalg1.gif)
@@ -38,7 +38,8 @@ You can find the algorithm scripts in [`Assets>>Scripts>>AlgorithmScripts`](http
         CalculateFitness();
         CalculateFitnessSum();  //needed for selecting parents
 
-        CopyBrain(Players[0], champion);   //best player is always reborn in next generation unchanged as player0
+        CopyBrain(Players[0], champion);   //best player is always reborn in next generation 
+                                           //unchanged as player0
 
         for (int i = 1; i < playerNum; i++)
         {
